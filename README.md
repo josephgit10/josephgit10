@@ -26,7 +26,10 @@ I’m a robotics engineer with experience in motion planning, computer vision, a
 
 ## 🌟 Experience  
 - **Void Robotics (Intern):** Improved waypoint navigation for TurtleBot3 simulations and resolved testing suite failures.  
-- **Defense Research and Development Organization (DRDO, Intern):** Designed and prototyped a remote-controlled weapon mount system, demonstrating proficiency in CAD and mechatronics.  
+- **Defense Research and Development Organization (DRDO, Intern):** Designed and prototyped a remote-controlled weapon mount system, demonstrating proficiency in CAD and mechatronics.
+
+## 🎸 Beyond Robotics  
+When I'm not working on robotics projects, you’ll likely find me playing music! I enjoy the guitar, recorder, and clarinet, and exploring different music genres is one of my favorite pastimes.
 
 ## 📫 Let's Connect  
 - **LinkedIn:** [linkedin.com/in/joseph-thomas10](https://www.linkedin.com/in/joseph-thomas10)  

@@ -12,7 +12,7 @@ I’m a robotics engineer with experience in motion planning, computer vision, a
 - **Tools:** Gazebo, RViz, CoppeliaSim, Docker, Git, SolidWorks, Fusion 360  
 
 ## 🔧 Projects  
-### **Informed RRT* Trajectory Planning**  
+### **Informed RRT-star Trajectory Planning**  
 - Implemented an optimized path planning algorithm for autonomous robots using Python and ROS.  
 - Designed custom obstacle maps for simulations in Gazebo, achieving faster convergence and efficient navigation.  
 
